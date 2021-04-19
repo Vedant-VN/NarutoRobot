@@ -51,7 +51,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, it's Me {}! 
+Dattebayo {}, it's Me your Favorite HOKAGE {}! 
 I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups. Join @NarutoRobot_Support.
 You can find my list of available commands with /help.
